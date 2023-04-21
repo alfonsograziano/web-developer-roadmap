@@ -30,3 +30,37 @@ You’ll find a few checkboxes, feel free to copy this document (or fork it as w
 You’ll find activities related to hard and soft skills. Being a good developer is not about writing code. 
 
 Ready? Let’s get started! 🚀
+
+
+
+## Time to study
+
+### 🔨 Week 1 - Introduction & Tools
+
+#### Week description
+
+In this first week, we’ll make a basic introduction to programming and how the Internet works. Then we will learn the basics of VSCode (a text editor used to write software) and Git (a tool used to version our code). Also, we will create a basic Linkedin profile to reach out to other developers and grow our network.
+
+#### Why it matters
+
+Starting with a basic computer science and Internet understanding is fundamental in a Web Development roadmap
+
+In the first week, you need to setup your tools. You need: 
+
+- A computer
+- A good internet connection (you’ll see a lot of videos)
+
+The first weeks are the most complex, you’re going to receive a lot of information, you’ll find weird names and you need to manage multiple complex concepts. Feel free to rewatch a video multiple times if you don’t understand it correctly.
+
+- [ ]  Watch [Introduction to Programming and Computer Science - Full Course](https://www.youtube.com/watch?v=zOjov-2OZ0E&ab_channel=freeCodeCamp.org)
+- [ ]  Watch [The Programming Language Guide](https://youtu.be/2lVDktWK-pc)
+- [ ]  Watch [How does the internet work? (Full Course)](https://youtu.be/zN8YNNHcaZc)
+- [ ]  Watch [Visual Studio Code Crash Course](https://www.youtube.com/watch?v=WPqXP_kLzpo&t=1s)
+    - [ ]  Download and configure Visual Studio Code
+- [ ]  Watch [Git and GitHub for Beginners - Crash Course](https://youtu.be/RGOj5yH7evk)
+    - [ ]  Create a [Github](https://github.com/) account
+    - [ ]  Download [Git](https://git-scm.com/downloads)
+    - [ ]  Create and publish a first Github repository containing only a text file with your name
+    - [ ]  Fork this repository and update the MD file as soon as you proceed with the roadmap
+- [ ]  Create a [Linkedin](https://www.linkedin.com/) account (we will optimize it in the next weeks)
+    - [ ]  Send me a [connection](https://www.linkedin.com/in/alfonso-graziano/) if you want
