@@ -67,6 +67,29 @@ The first weeks are the most complex, you’re going to receive a lot of informa
 
 ### 🎨 Week 2 - HTML & CSS Basic
 
+**Week description**
+
+HTML & CSS are two of the 3 main components of a frontend web application. 
+
+Like other topics in this roadmap, is virtually impossible to learn them in one week, but we can at least gain a basic understanding of how they work and start experimenting to create a few demo applications. We will cover the HTML & CSS basics, Tailwind and we’re going to create a first presentation Linkedin post.
+
+**Why it matters**
+
+HTML creates the basic structure of a web page. With CSS we can add style, animations, handling responsiveness, and a lot more. Also, joining dev communities is really important and can be a career booster.
+ 
+
+- [ ]  Watch [HTML & CSS for Beginners | FREE MEGA COURSE (7+ Hours!)](https://www.youtube.com/watch?v=iG2jotQo9NI&ab_channel=EnvatoTuts%2B)
+- [ ]  Watch [Tailwind CSS Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours](https://youtu.be/lCxcTsOHrjo)
+- [ ]  Create an account on [Frontend Mentor](https://www.notion.so/6947c7e8a214499a8eec2027b7568a12)
+    - [ ]  Complete at least [5 challenges](https://www.frontendmentor.io/challenges?languages=HTML|CSS&types=free) with HTML + CSS and publish them on Github
+- [ ]  Improve your social presence
+    - [ ]  Create your first Linkedin post by explaining who you are, what are you studying, and why you decided to start this journey
+    - [ ]  Connect with at least 10 software developers. You can search for them in your city for example.
+- [ ]  Join software developer's [Discord communities](https://dev.to/htnguy/top-10-discord-servers-for-developers-559o) and start to interact with them
+
+Right now you should have an understanding of how the DOM works, how to style HTML, and you should already have a few projects on Github, congratulations! 🎉
+
+Keep in mind that this is not programming. HTML and CSS are a way to define what to show on a web browser. Programming is something different, we will see it in the next week.
 ### ✏️ Week 3 - JS Basics
 
 ### 🔥 Week 4 - JS Intermediate
