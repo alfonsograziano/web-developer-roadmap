@@ -64,3 +64,31 @@ The first weeks are the most complex, you’re going to receive a lot of informa
     - [ ]  Fork this repository and update the MD file as soon as you proceed with the roadmap
 - [ ]  Create a [Linkedin](https://www.linkedin.com/) account (we will optimize it in the next weeks)
     - [ ]  Send me a [connection](https://www.linkedin.com/in/alfonso-graziano/) if you want
+
+### 🎨 Week 2 - HTML & CSS Basic
+
+### ✏️ Week 3 - JS Basics
+
+### 🔥 Week 4 - JS Intermediate
+
+### 🏗️ Week 5 - A first website
+
+### ⌨️ Week 6 - Typescript & Webpack
+
+### 🌐 Week 7 - NodeJs + Express + REST
+
+### ⛓️ Week 8 - Database Basics
+
+### ⚛️ Week 9 - React basics
+
+### 🦸🏻 Week 10 - React advanced (Redux & Next.js)
+
+### 🚀 Week 11 -  A fullstack website
+
+### 💪🏻 Week 12 - Algorithms & Data Structures
+
+### 🐳 Week 13 - Docker basics
+
+### ☁️ Week 14 - Cloud basics
+
+### ➡️ Week 15- What’s next
