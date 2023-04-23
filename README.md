@@ -172,6 +172,12 @@ Project requirements:
 
 ### ⚛️ Week 9 - React basics
 
+- [ ]  Watch [React Course - Beginner's Tutorial for React JavaScript Library [2022]](https://youtu.be/bMknfKXIFA8)
+    - [ ]  Build the three projects from the course and publish them on Github
+- [ ]  Study the [React documentation](https://react.dev/)
+- [ ]  Check your knowledge using the [React roadmap](https://roadmap.sh/react)
+- [ ]  Check the [Top 100+ React Interview Questions You Must Prepare In 2023](https://www.edureka.co/blog/interview-questions/react-interview-questions/)
+
 ### 🦸🏻 Week 10 - React advanced (Redux & Next.js)
 
 ### 🚀 Week 11 -  A fullstack website
