@@ -263,70 +263,6 @@ Finally, Next.js is an excellent choice for building server-side rendered React 
 During this one-week project, you will be creating an Online Event Booking Platform that caters to event organizers and attendees. The platform will enable users to browse, book, and manage events such as conferences, workshops, or seminars. You will be utilizing your skills in React, Next.js, Express, Node, SQL, Redux, HTML, and CSS to create a full-stack web application complete with user authentication, event creation and management, booking and payment processing, and an admin panel.
 
 The week is divided into four milestones to ensure steady progress and the timely completion of each part of the project. You will begin by setting up the frontend and backend boilerplates and implementing user authentication. Next, you will work on event CRUD operations and design the essential web pages. The third milestone will see you developing the admin panel and implementing search functionality. Finally, you will wrap up the project by deploying the application and preparing documentation.
-
-Project Title: **Online Event Booking Platform**
-
-Project Brief:
-Design and develop a full-stack web application that allows users to browse, book, and manage events, such as conferences, workshops, or seminars. The platform will include user authentication, event creation and management, booking and payment processing, and an admin panel to manage events and users.
-
-Requirements:
-
-Frontend (React, Next.js, Redux, HTML, CSS)
-a. Landing page
-
-Display a list of featured events
-Search bar to find events by name, date, or location
-b. Event details page
-Event information (name, description, date, time, location, price)
-Button to book the event (requires user authentication)
-c. User authentication (login, registration, password reset)
-d. User dashboard
-Manage bookings (view, cancel)
-Edit user profile information
-e. Admin panel
-Manage events (create, edit, delete)
-Manage users (view, edit, delete)
-Backend (Node, Express, SQL)
-a. RESTful API
-
-Endpoints for event CRUD operations
-Endpoints for user authentication and CRUD operations
-Endpoints for booking management
-b. Database (SQL)
-Store event data, user data, and bookings
-c. Payment processing (use a third-party API, e.g. Stripe)
-Securely handle payments for event bookings
-Project Setup & Deployment
-a. Version control (Git)
-
-Track and manage changes to your codebase
-b. Environment setup
-Configure development, staging, and production environments
-c. Deployment (e.g. Vercel, Netlify, or Heroku)
-Deploy frontend and backend applications to production
-Milestones:
-
-Day 1-2 (10 hours)
-
-Set up the frontend (React, Next.js) and backend (Node, Express) boilerplate
-Implement user authentication (login, registration, password reset)
-Create the database schema and set up the SQL database
-Day 3-4 (10 hours)
-
-Implement the event CRUD operations (frontend and backend)
-Design and develop the landing page, event details page, and user dashboard
-Integrate payment processing API
-Day 5-6 (8 hours)
-
-Develop the admin panel for event and user management
-Implement search functionality on the landing page
-Perform testing and debugging
-Day 7 (2 hours)
-
-Deployment and final testing
-Prepare documentation and project handoff
-By following this brief, you will create a comprehensive full-stack online event booking platform within the given time frame of one week (30 hours).
-
 #### Why It Matters
 
 This Online Event Booking Platform project matters for several reasons:
@@ -340,6 +276,66 @@ Time management: With a strict one-week deadline, this project will help you imp
 Problem-solving: Building an Online Event Booking Platform from scratch will require you to find solutions to various technical and design challenges. This experience will sharpen your problem-solving abilities, making you a more adept developer.
 
 Real-world impact: The platform has the potential to provide a valuable service for event organizers and attendees alike. By simplifying the event booking process and offering a streamlined user experience, you can make a tangible difference in the way people discover, book, and manage events.
+
+
+
+Project Title: **Online Event Booking Platform**
+
+Project Brief:
+Design and develop a full-stack web application that allows users to browse, book, and manage events, such as conferences, workshops, or seminars. The platform will include user authentication, event creation and management, booking and payment processing, and an admin panel to manage events and users.
+
+Requirements:
+
+1. Frontend (React, Next.js, Redux, HTML, CSS)
+a. Landing page
+    - Display a list of featured events
+    - Search bar to find events by name, date, or location
+    b. Event details page
+    - Event information (name, description, date, time, location, price)
+    - Button to book the event (requires user authentication)
+    c. User authentication (login, registration, password reset)
+    d. User dashboard
+    - Manage bookings (view, cancel)
+    - Edit user profile information
+    e. Admin panel
+    - Manage events (create, edit, delete)
+    - Manage users (view, edit, delete)
+2. Backend (Node, Express, SQL)
+a. RESTful API
+    - Endpoints for event CRUD operations
+    - Endpoints for user authentication and CRUD operations
+    - Endpoints for booking management
+    b. Database (SQL)
+    - Store event data, user data, and bookings
+    c. Payment processing (use a third-party API, e.g. Stripe)
+    - Securely handle payments for event bookings
+3. Project Setup & Deployment
+a. Version control (Git)
+    - Track and manage changes to your codebase
+    b. Environment setup
+    - Configure development, staging, and production environments
+    c. Deployment (e.g. Vercel, Netlify, or Heroku)
+    - Deploy frontend and backend applications to production
+
+Milestones:
+
+1. Day 1-2 (10 hours)
+    - Set up the frontend (React, Next.js) and backend (Node, Express) boilerplate
+    - Implement user authentication (login, registration, password reset)
+    - Create the database schema and set up the SQL database
+2. Day 3-4 (10 hours)
+    - Implement the event CRUD operations (frontend and backend)
+    - Design and develop the landing page, event details page, and user dashboard
+    - Integrate payment processing API
+3. Day 5-6 (8 hours)
+    - Develop the admin panel for event and user management
+    - Implement search functionality on the landing page
+    - Perform testing and debugging
+4. Day 7 (2 hours)
+    - Deployment and final testing
+    - Prepare documentation and project handoff
+
+By following this brief, you will create a comprehensive full-stack online event booking platform within the given time frame of one week (30 hours).
 
 ### 💪🏻 Week 12 - Algorithms & Data Structures
 
