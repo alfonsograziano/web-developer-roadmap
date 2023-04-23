@@ -88,6 +88,7 @@ You can check a few useful resources about CS:
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Computer Science and Programming - Version 4.0](https://github.com/P1xt/p1xt-guides)
 - [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
+- [Developer Roadmaps](https://roadmap.sh/roadmaps)
 
 ## 📚 How to use this guide
 
