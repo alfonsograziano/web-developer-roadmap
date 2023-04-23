@@ -135,6 +135,15 @@ Also, the Clean Code playlist will start giving you a basic understanding of the
 - [ ]  Share on Linkedin the Github repository with your notes and ask for Pull Requests
 - [ ]  Participate in an online JS event/workshop and after that, share a post on Linkedin with what you learned
 ### 🏗️ Week 5 - A first website
+#### Week Description
+
+This week, you will be working on an exciting personal project that puts into practice all the knowledge you've gained so far. The project will be a fully responsive website featuring at least three different pages with seamless navigation between them. The mobile UI should include a hamburger menu for easy navigation. To enhance user interaction, you'll create a form and implement basic CRUD functionality using localStorage. Once the project is completed, you'll showcase it through a video or a LinkedIn carousel, publish the code on GitHub, and receive peer review in the form of a Pull Request.
+
+#### Why It Matters
+
+Undertaking a personal project like this is an excellent opportunity to demonstrate your skills, creativity, and understanding of web development concepts. It serves as a practical assessment of your learning and allows you to apply your knowledge to real-world scenarios. The project requirements ensure that you cover essential aspects of modern web development, such as responsive design, user interaction, and data management.
+
+Moreover, showcasing your project through a video or a LinkedIn carousel and sharing the code on GitHub will help build your portfolio and online presence. This exposure can lead to valuable connections, job opportunities, and feedback from peers, further enhancing your growth and development as a web developer.
 
 Project requirements: 
 
