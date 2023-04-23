@@ -130,7 +130,7 @@ HTML creates the basic structure of a web page. With CSS we can add style, anima
 
 - [ ]  Watch [HTML & CSS for Beginners | FREE MEGA COURSE (7+ Hours!)](https://www.youtube.com/watch?v=iG2jotQo9NI&ab_channel=EnvatoTuts%2B)
 - [ ]  Watch [Tailwind CSS Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours](https://youtu.be/lCxcTsOHrjo)
-- [ ]  Create an account on [Frontend Mentor](https://www.notion.so/6947c7e8a214499a8eec2027b7568a12)
+- [ ]  Create an account on [Frontend Mentor](https://www.frontendmentor.io/)
     - [ ]  Complete at least [5 challenges](https://www.frontendmentor.io/challenges?languages=HTML|CSS&types=free) with HTML + CSS and publish them on Github
 - [ ]  Improve your social presence
     - [ ]  Create your first Linkedin post by explaining who you are, what are you studying, and why you decided to start this journey
@@ -241,7 +241,8 @@ Studying best practices for REST API design and implementing a CRUD REST API wil
 
 Connecting with experienced developers for mentoring sessions will provide you with valuable insights, guidance, and advice to enhance your learning process and help you grow as a developer. Overall, this week's tasks will equip you with the skills and knowledge to build better server-side applications and advance your career in web development.
 
-- [ ]  Study [Node.js and Express.js - Full Course](https://www.notion.so/Web-Developer-Roadmap-2023-919456cfc3704f389c5987249c06aecf)
+- [ ]  Study [Node.js and Express.js - Full Course](https://youtu.be/Oe421EPjeBE)
+- [ ]  Watch [JWT Authentication Tutorial - Node.js](https://youtu.be/mbsmsi7l3r4)
 - [ ]  Study Eloquent Javascript chapters 20-21
 - [ ]  Study [Postman Beginner's Course - API Testing](https://youtu.be/VywxIQ2ZXw4)
 - [ ]  Read [REST API Best Practices](https://www.freecodecamp.org/news/rest-api-best-practices-rest-endpoint-design-examples/)
