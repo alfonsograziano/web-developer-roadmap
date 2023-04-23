@@ -365,4 +365,15 @@ Understanding Docker containers and Kubernetes is crucial for modern software de
 - [ ]  Watch [Project Management Full Course By Google](https://youtu.be/INHsqkkcjaM)
 ### ☁️ Week 14 - Cloud basics
 
+#### Week Description
+This week, we will focus on cloud and System Design basics using AWS by watching a comprehensive course, creating an AWS account, and experimenting with AWS services. Deploy your projects using AWS and take advantage of the free tier offerings.
+
+#### Why It Matters
+Understanding System Design and basic cloud knowledge are really valuable in our industry. Gaining hands-on experience with AWS by deploying projects will help you develop essential cloud computing skills, increasing your marketability and proficiency in managing cloud-based infrastructure.
+
+- [ ]  Read the [System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [ ]  Watch [AWS Certified Cloud Practitioner Certification Course](https://youtu.be/SOTamWNgDKc)
+- [ ]  Create an AWS account and start experimenting
+- [ ]  Deploy your projects using AWS. Keep in mind that you have a free tier to exploit
+
 ### ➡️ Week 15- What’s next
