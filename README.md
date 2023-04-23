@@ -190,6 +190,9 @@ Project requirements:
 
 ### 💪🏻 Week 12 - Algorithms & Data Structures
 
+- [ ]  Watch [MIT 6.006 Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
+- [ ]  Create a [Leetcode](https://leetcode.com/) account and solve at least 10 easy problems
+
 ### 🐳 Week 13 - Docker basics
 
 ### ☁️ Week 14 - Cloud basics
