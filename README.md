@@ -114,6 +114,26 @@ What huge progress! You have the Javascript basics and should be able to accompl
 
 ### 🔥 Week 4 - JS Intermediate
 
+#### Week description
+
+Did you like last week’s videos? Well, this week we will start with the serious stuff! 
+
+This week you will study a book 📚 which is really important in the Javascript ecosystem and can help you learn all the concepts required to succeed.
+
+This huge task will probably take the entire week, so relax, take a cup of tea, and start from page 1 😃
+
+#### Why it matters
+
+Studying Eloquent Javascript can help you learn all the concepts required to succeed in Javascript, and it will give you a solid foundation for building more complex applications. Additionally, completing the exercises can help solidify your understanding of the material.
+
+Also, the Clean Code playlist will start giving you a basic understanding of the clean code concepts
+
+- [ ]  Study [Eloquent Javascript](https://eloquentjavascript.net/) up to Chapter 19
+    - [ ]  Create a Github repository with Eloquent Javascript notes
+    - [ ]  Study and reproduce all the projects up to Chapter 19
+- [ ]  Watch [Clean Code playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkK24EaPurzMq0-kw5U9pJh)
+- [ ]  Share on Linkedin the Github repository with your notes and ask for Pull Requests
+- [ ]  Participate in an online JS event/workshop and after that, share a post on Linkedin with what you learned
 ### 🏗️ Week 5 - A first website
 
 ### ⌨️ Week 6 - Typescript & Webpack
