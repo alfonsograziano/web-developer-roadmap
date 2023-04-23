@@ -83,7 +83,8 @@ While this roadmap provides a wealth of useful information for free, it's crucia
 
 So, if you're a tech enthusiast considering a developer career, give this 15-week roadmap a try to see if it's the right fit for you. But remember, this is only the beginning of your journey, and further education will be necessary to fully develop your skills and knowledge in the field.
 
-- [Check out the Open Source Society University](https://github.com/ossu/computer-science)
+You can check a few useful resources about CS:
+- [Open Source Society University](https://github.com/ossu/computer-science)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Computer Science and Programming - Version 4.0](https://github.com/P1xt/p1xt-guides)
 - [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
