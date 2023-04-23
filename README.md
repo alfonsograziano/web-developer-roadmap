@@ -3,6 +3,7 @@
 - [The free Web Developer Roadmap for 2023](#the-free-web-developer-roadmap-for-2023)
   - [🆕 Introduction](#introduction)
   - [🧠 Assumptions](#assumptions)
+  - [⚠️ Warning and useful link](#️-warning-and-useful-link)
   - [📚 How to use this guide](#how-to-use-this-guide)
   - [Time to study](#time-to-study)
     - [🔨 Week 1 - Introduction \& Tools](#week-1---introduction--tools)
@@ -74,6 +75,18 @@ My assumptions are:
 - You don’t have past working experience in this field
 - All the listed resources are free
 - You have basics tech skills, like using a computer, installing software, and using the web
+
+## ⚠️ Warning and useful link
+This 15-week web developer roadmap is designed to give you a taste of what it's like to be a developer and help you understand if this is the career path you'd like to pursue. It's important to remember that this roadmap is a starting point, aimed at helping you with prototyping and gaining some practical knowledge.
+
+While this roadmap provides a wealth of useful information for free, it's crucial to keep in mind that it is not a replacement for a more formal education, such as a university degree. A comprehensive education will provide you with in-depth knowledge and a strong foundation in computer science, which is essential for a successful career in web development.
+
+So, if you're a tech enthusiast considering a developer career, give this 15-week roadmap a try to see if it's the right fit for you. But remember, this is only the beginning of your journey, and further education will be necessary to fully develop your skills and knowledge in the field.
+
+- [Check out the Open Source Society University](https://github.com/ossu/computer-science)
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [Computer Science and Programming - Version 4.0](https://github.com/P1xt/p1xt-guides)
+- [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
 
 ## 📚 How to use this guide
 
