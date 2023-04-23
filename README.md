@@ -148,6 +148,15 @@ Project requirements:
     - [ ]  Publish the code on Github and gain at least a PR from a peer
 
 ### ⌨️ Week 6 - Typescript & Webpack
+#### Week Description
+
+This week is focused on learning TypeScript and Webpack, two essential tools for modern web development. You'll begin by studying comprehensive tutorials on TypeScript and Webpack to understand their fundamental concepts and usage. Afterward, you'll convert five JavaScript projects into TypeScript and push them to GitHub using the "typescript" branch. In addition, you'll experiment with Webpack to create your first bundles. To enhance your professional presence, you'll also work on improving your LinkedIn profile and invest time in networking to expand your connections.
+
+#### Why It Matters
+
+Learning TypeScript and Webpack is crucial for developers looking to stay up-to-date with the latest trends and best practices in web development. TypeScript provides a more robust development experience by adding static types to JavaScript, leading to fewer runtime errors and better code maintainability. Webpack, on the other hand, simplifies the management of complex application dependencies and optimizes web applications for faster loading times.
+
+Moreover, a strong LinkedIn profile and an active network can significantly impact your career growth. By refining your LinkedIn profile and expanding your connections, you'll create more opportunities for collaboration, job offers, and professional development. Investing in these areas will not only help you stay relevant in the industry but also enhance your overall career prospects.
 
 - [ ]  Study [Learn TypeScript - Full Tutorial](https://youtu.be/30LWjhZzg50)
 - [ ]  Study [Learn Webpack - Full Tutorial for Beginners](https://www.youtube.com/watch?v=MpGLUVbqoYQ&ab_channel=freeCodeCamp.org)
