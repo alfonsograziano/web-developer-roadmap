@@ -4,6 +4,7 @@
   - [🆕 Introduction](#introduction)
   - [🧠 Assumptions](#assumptions)
   - [⚠️ Warning and useful link](#️-warning-and-useful-link)
+  - [🆘 Contributing](#-contributing)
   - [📚 How to use this guide](#how-to-use-this-guide)
   - [Time to study](#time-to-study)
     - [🔨 Week 1 - Introduction \& Tools](#week-1---introduction--tools)
@@ -96,6 +97,9 @@ You can check a few useful resources about CS:
 - [Computer Science and Programming - Version 4.0](https://github.com/P1xt/p1xt-guides)
 - [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
 - [Developer Roadmaps](https://roadmap.sh/roadmaps)
+
+## 🆘 Contributing
+If you want to contribute to this project by suggesting changes, fixing broken links, adding useful resources etc please follow our [Contribution Guide](https://github.com/alfonsograziano/web-developer-roadmap/blob/main/CONTRIBUTING.md)
 
 ## 📚 How to use this guide
 
