@@ -67,13 +67,13 @@ The first weeks are the most complex, you’re going to receive a lot of informa
 
 ### 🎨 Week 2 - HTML & CSS Basic
 
-**Week description**
+#### Week description
 
 HTML & CSS are two of the 3 main components of a frontend web application. 
 
 Like other topics in this roadmap, is virtually impossible to learn them in one week, but we can at least gain a basic understanding of how they work and start experimenting to create a few demo applications. We will cover the HTML & CSS basics, Tailwind and we’re going to create a first presentation Linkedin post.
 
-**Why it matters**
+#### Why it matters
 
 HTML creates the basic structure of a web page. With CSS we can add style, animations, handling responsiveness, and a lot more. Also, joining dev communities is really important and can be a career booster.
  
@@ -90,7 +90,27 @@ HTML creates the basic structure of a web page. With CSS we can add style, anima
 Right now you should have an understanding of how the DOM works, how to style HTML, and you should already have a few projects on Github, congratulations! 🎉
 
 Keep in mind that this is not programming. HTML and CSS are a way to define what to show on a web browser. Programming is something different, we will see it in the next week.
+
 ### ✏️ Week 3 - JS Basics
+
+#### Week description
+
+In this roadmap, we decided to keep just one language to use both on the frontend and on the backend to keep it simpler. Javascript is a powerful language and we’re going to use it to build full-stack complex applications. 
+
+In this first week, we will learn a few basics JS skills and a few Soft Skills for software developers
+
+#### Why it matters
+
+I remember when I started coding for the first time. It was interesting but hard, complex, and a huge topic. In the end, programming is just the first step to becoming a software engineer. The more you exercise, the more you improve your skills. Keep going! 🚀
+
+- [ ]  Watch [JavaScript Tutorial for Beginners - Full Course in 12 Hours (2022)](https://youtu.be/lI1ae4REbFM)
+    - [ ]  Replicate the two portfolio projects at the end and add them to your Github profile
+- [ ]  Complete at least [10 challenges](https://www.frontendmentor.io/challenges?languages=HTML|CSS,HTML|CSS|JS&types=free) with HTML + CSS and publish them on Github
+- [ ]  Start learning a few [Software Development soft skills](https://www.youtube.com/playlist?list=PL32pD389V8xsYo9ETSd4JTu5EYYLcYZCu)
+- [ ]  Read [10 Soft Skills Every Software Engineer Should Have](https://www.trio.dev/blog/software-engineer-soft-skills)
+- [ ]  Publish 3 posts on Linkedin about what you’re learning and present demos (using videos or screenshots) about your current projects
+
+What huge progress! You have the Javascript basics and should be able to accomplish simple tasks. Javascript is a big language and contains a lot of concepts, we will analyze them more in detail next week!
 
 ### 🔥 Week 4 - JS Intermediate
 
