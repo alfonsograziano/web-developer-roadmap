@@ -136,7 +136,26 @@ Also, the Clean Code playlist will start giving you a basic understanding of the
 - [ ]  Participate in an online JS event/workshop and after that, share a post on Linkedin with what you learned
 ### 🏗️ Week 5 - A first website
 
+Project requirements: 
+
+- The website must be fully responsive
+- Add at least 3 different pages with navigation between them
+- Use a hamburger menu in the mobile UI
+- Create a form and let the user interact
+- Add a page with custom logic and implement a basic [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) using localStorage
+- [ ]  Create a personal project using all the knowledge you gained
+    - [ ]  Create a video of the project or a Linkedin carousel
+    - [ ]  Publish the code on Github and gain at least a PR from a peer
+
 ### ⌨️ Week 6 - Typescript & Webpack
+
+- [ ]  Study [Learn TypeScript - Full Tutorial](https://youtu.be/30LWjhZzg50)
+- [ ]  Study [Learn Webpack - Full Tutorial for Beginners](https://www.youtube.com/watch?v=MpGLUVbqoYQ&ab_channel=freeCodeCamp.org)
+- [ ]  Read [Using webpack with TypeScript](https://blog.logrocket.com/using-webpack-typescript/)
+- [ ]  Convert 5 JS projects you created into TS and push them on GitHub using the “typescript” branch
+- [ ]  Experiment with Webpack and create your first bundles
+- [ ]  Improve your [Linkedin profile](https://www.linkedin.com/business/sales/blog/profile-best-practices/17-steps-to-a-better-linkedin-profile-in-2017)
+- [ ]  Invest 1hr/day in networking using Linkedin. Increase your network up to 50 valuable connections
 
 ### 🌐 Week 7 - NodeJs + Express + REST
 
