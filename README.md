@@ -239,7 +239,23 @@ By completing this week's tasks, you will gain a strong foundation in React, ena
 - [ ]  Check your knowledge using the [React roadmap](https://roadmap.sh/react)
 - [ ]  Check the [Top 100+ React Interview Questions You Must Prepare In 2023](https://www.edureka.co/blog/interview-questions/react-interview-questions/)
 
-### 🦸🏻 Week 10 - React advanced (Redux & Next.js)
+### 🦸🏻 Week 10 - React advanced
+
+#### Week Description
+During this week, you will be diving into various topics related to modern web development with a focus on React and related technologies. You will learn about MUI5, an open-source design system for creating user interfaces that follow Google's Material Design principles. Additionally, you will gain a better understanding of advanced React concepts such as Higher-Order Components, Render Props, and Hooks. 
+You will also explore React Redux, a state management library for React, which is commonly used in larger applications. Lastly, you will study the Next.js React framework, which provides a set of tools and conventions for building server-side rendered React applications.
+
+#### Why it Matters
+As the web development landscape continues to evolve rapidly, it's essential to stay up-to-date with the latest technologies and trends. React has become one of the most popular JavaScript libraries for building modern web applications, and MUI5 is a widely adopted design system that provides a consistent look and feel across different platforms. 
+Understanding advanced React concepts such as Hooks and Render Props can help you write more efficient and reusable code, while Redux can help you manage the state of larger applications more easily. 
+
+Finally, Next.js is an excellent choice for building server-side rendered React applications, providing a straightforward and intuitive development experience. By exploring these topics, you will be well-equipped to build high-quality web applications that are both performant and user-friendly.
+
+- [ ]  Learn [MUI5 (Material User Interface) Crash Course](https://youtu.be/o1chMISeTC0)
+- [ ]  Understand [Advanced React Concepts](https://reactresources.com/topics/advanced-concepts)
+- [ ]  Watch [React Redux Full Course for Beginners](https://youtu.be/NqzdVN2tyvQ)
+- [ ]  Study the [Next.js React Framework Course](https://youtu.be/KjY94sAKLlw)
+
 
 ### 🚀 Week 11 -  A fullstack website
 
