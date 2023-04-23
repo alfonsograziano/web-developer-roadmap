@@ -36,17 +36,21 @@
       - [Week Description](#week-description-9)
       - [Why it Matters](#why-it-matters-9)
     - [🚀 Week 11 -  A fullstack website](#week-11----a-fullstack-website)
-      - [Week Description](#week-description-10)
-      - [Why It Matters](#why-it-matters-10)
+      - [Track 1](#track-1)
+        - [Week Description](#week-description-10)
+        - [Why It Matters](#why-it-matters-10)
+      - [Track 2](#track-2)
+        - [Week Description](#week-description-11)
+        - [Why It Matters](#why-it-matters-11)
     - [💪🏻 Week 12 - Algorithms \& Data Structures](#week-12---algorithms--data-structures)
-      - [Week Description](#week-description-11)
-      - [Why it Matters](#why-it-matters-11)
-    - [🐳🤝 Week 13 - Docker \& Project management](#week-13---docker--project-management)
       - [Week Description](#week-description-12)
-      - [Why It Matters](#why-it-matters-12)
-    - [☁️ Week 14 - Cloud basics](#️week-14---cloud-basics)
+      - [Why it Matters](#why-it-matters-12)
+    - [🐳🤝 Week 13 - Docker \& Project management](#week-13---docker--project-management)
       - [Week Description](#week-description-13)
       - [Why It Matters](#why-it-matters-13)
+    - [☁️ Week 14 - Cloud basics](#️week-14---cloud-basics)
+      - [Week Description](#week-description-14)
+      - [Why It Matters](#why-it-matters-14)
     - [🚀 Week 15 - What's next?](#-week-15---whats-next)
 
 
@@ -309,12 +313,87 @@ Finally, Next.js is an excellent choice for building server-side rendered React 
 
 
 ### 🚀 Week 11 -  A fullstack website
-#### Week Description
+For this week, you have two briefs. Read them, you can choose and work on the project you prefer. If you need any help with the project or you want any other detail, please feel free to [contact me on Linkedin](https://www.linkedin.com/in/alfonso-graziano/).
+
+#### Track 1 
+
+##### Week Description
+
+During this one-week project, you will be creating a Fitness Tracker Web App that allows users to track and manage their workouts, nutrition, and progress. The app will include user authentication, workout and meal logging, progress tracking, and social features such as following other users and sharing achievements. You will be using your skills in React, Next.js, Express, Node, MongoDB, Redux, HTML, and CSS to create a full-stack web application.
+
+The week is divided into four milestones to ensure steady progress and the timely completion of each part of the project. You will start by setting up the frontend and backend boilerplates and implementing user authentication. Next, you will work on the workout and meal logging features, as well as develop the essential web pages. The third milestone will see you implementing progress tracking and social features. Finally, you will wrap up the project by deploying the application and preparing documentation.
+
+##### Why It Matters
+
+This Fitness Tracker Web App project matters for several reasons:
+
+- Skill development: By building a full-stack web application, you will not only reinforce your existing skills in React, Next.js, Express, Node, MongoDB, Redux, HTML, and CSS but also learn how to integrate and utilize them effectively in a real-world project.
+- Portfolio enhancement: A full-stack project like this demonstrates your expertise and versatility as a developer. It showcases your ability to handle both frontend and backend development, as well as your capacity to integrate third-party APIs and create a user-friendly interface.
+- Time management: With a strict one-week deadline, this project will help you improve your time management and prioritization skills. You will learn how to break down a project into manageable milestones, allocate time efficiently, and work under pressure.
+- Problem-solving: Building a Fitness Tracker Web App from scratch will require you to find solutions to various technical and design challenges. This experience will sharpen your problem-solving abilities, making you a more adept developer.
+- Real-world impact: The app has the potential to improve the lives of fitness enthusiasts by providing a convenient way to track and manage their workouts, nutrition, and progress. By offering a seamless user experience, you can help people achieve their fitness goals more effectively.
+
+**Project Title:** Fitness Tracker Web App
+
+**Project Brief:** Design and develop a full-stack web application that allows users to track and manage their workouts, nutrition, and progress. The app will include user authentication, workout and meal logging, progress tracking, and social features such as following other users and sharing achievements.
+
+Requirements:
+
+1. Frontend (React, Next.js, Redux, HTML, CSS)
+a. Landing page
+    - Brief overview of the app's features
+    - Call-to-action for user registration
+    b. User authentication (login, registration, password reset)
+    c. Dashboard
+    - Overview of user's workouts, meals, and progress
+    - Option to log workouts and meals
+    d. Progress tracking
+    - Display graphs and statistics related to user's fitness progress
+    e. Social features
+    - Ability to follow other users
+    - Share achievements with friends
+2. Backend (Node, Express, MongoDB)
+a. RESTful API
+    - Endpoints for user authentication and CRUD operations
+    - Endpoints for workout and meal logging
+    - Endpoints for progress tracking and social features
+    b. Database (MongoDB)
+    - Store user data, workout logs, meal logs, and progress data
+3. Project Setup & Deployment
+a. Version control (Git)
+    - Track and manage changes to your codebase
+    b. Environment setup
+    - Configure development, staging, and production environments
+    c. Deployment (e.g. Vercel, Netlify, or Heroku)
+    - Deploy frontend and backend applications to production
+    
+    Milestones:
+    
+    1. Day 1-2 (10 hours)
+        - Set up the frontend (React, Next.js) and backend (Node, Express) boilerplate
+        - Implement user authentication (login, registration, password reset)
+        - Create the database schema and set up the MongoDB database
+    2. Day 3-4 (10 hours)
+        - Implement the workout and meal logging features (frontend and backend)
+        - Design and develop the landing page, dashboard, and progress tracking page
+        - Integrate social features (following other users, sharing achievements)
+    3. Day 5-6 (8 hours)
+        - Refine the user interface and experience
+        - Implement additional features, such as workout and meal plans
+        - Perform testing and debugging
+    4. Day 7 (2 hours)
+        - Deployment and final testing
+        - Prepare documentation and project handoff
+    
+    By following this brief, you will create a comprehensive full-stack fitness tracker web app within the given time frame of one week (30 hours). This project will not only enhance your portfolio but also help you develop essential skills in full-stack web development.
+
+#### Track 2
+##### Week Description
 
 During this one-week project, you will be creating an Online Event Booking Platform that caters to event organizers and attendees. The platform will enable users to browse, book, and manage events such as conferences, workshops, or seminars. You will be utilizing your skills in React, Next.js, Express, Node, SQL, Redux, HTML, and CSS to create a full-stack web application complete with user authentication, event creation and management, booking and payment processing, and an admin panel.
 
 The week is divided into four milestones to ensure steady progress and the timely completion of each part of the project. You will begin by setting up the frontend and backend boilerplates and implementing user authentication. Next, you will work on event CRUD operations and design the essential web pages. The third milestone will see you developing the admin panel and implementing search functionality. Finally, you will wrap up the project by deploying the application and preparing documentation.
-#### Why It Matters
+##### Why It Matters
 
 This Online Event Booking Platform project matters for several reasons:
 
