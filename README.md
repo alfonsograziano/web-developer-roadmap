@@ -227,6 +227,16 @@ By completing this week's tasks, you will gain a strong foundation in React, ena
 
 ### 💪🏻 Week 12 - Algorithms & Data Structures
 
+#### Week Description
+
+This week, you will focus on enhancing your understanding of algorithms and problem-solving skills. Start by watching the MIT Introduction to Algorithms course, which covers fundamental concepts and techniques in algorithms, data structures, and complexity analysis. Once you have completed the course, create a Leetcode account and challenge yourself by solving at least 10 easy problems to practice your newly acquired skills.
+
+#### Why it Matters
+
+A strong foundation in algorithms is crucial for any software developer, as it equips you with the ability to solve complex problems efficiently and write optimized code. By watching the MIT Introduction to Algorithms course, you will learn essential algorithms and data structures that can help you in a variety of real-world scenarios.
+
+Practicing problems on Leetcode will not only help reinforce the concepts learned in the course but also improve your problem-solving skills and ability to think critically about coding challenges. This will prepare you for technical interviews, where algorithmic problems are often used to assess candidates' skills. Overall, this week's tasks will strengthen your understanding of algorithms, enhance your coding skills, and make you a more competitive candidate in the job market.
+
 - [ ]  Watch [MIT 6.006 Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 - [ ]  Create a [Leetcode](https://leetcode.com/) account and solve at least 10 easy problems
 
