@@ -342,6 +342,11 @@ Finally, Next.js is an excellent choice for building server-side rendered React 
 ### 🚀 Week 11 -  A fullstack website
 For this week, you have two briefs. Read them, you can choose and work on the project you prefer. If you need any help with the project or you want any other detail, please feel free to [contact me on Linkedin](https://www.linkedin.com/in/alfonso-graziano/).
 
+If you want to customize the project brief to stick with your interests, consider using a Large Language Model (like ChatGPT) with this prompt: 
+
+> I'm learning web development. Act as a companion software engineer. For now my skills are: HTML, CSS, Javascript, React, SQL, MongoDB, Typescript, Express, Redux, Next.js. I want to create a demo project to showcase my skills in one week. Create for me a project brief I can achieve with my skills on this topic: "Add your topic here".
+
+
 #### Track 1 
 
 ##### Week Description
