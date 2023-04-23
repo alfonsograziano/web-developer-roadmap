@@ -159,6 +159,15 @@ Project requirements:
 
 ### 🌐 Week 7 - NodeJs + Express + REST
 
+- [ ]  Study [Node.js and Express.js - Full Course](https://www.notion.so/Web-Developer-Roadmap-2023-919456cfc3704f389c5987249c06aecf)
+- [ ]  Study Eloquent Javascript chapters 20-21
+- [ ]  Study [Postman Beginner's Course - API Testing](https://youtu.be/VywxIQ2ZXw4)
+- [ ]  Read [REST API Best Practices](https://www.freecodecamp.org/news/rest-api-best-practices-rest-endpoint-design-examples/)
+- [ ]  Implement a basic CRUD REST API
+- [ ]  Learn [how to use Node with Typescript](https://www.digitalocean.com/community/tutorials/setting-up-a-node-project-with-typescript)
+- [ ]  Check your knowledge in the [Node roadmap](https://roadmap.sh/nodejs)
+- [ ]  Achieve 3 mentoring sessions. Contact more senior developers on Linkedin asking for a 30-minute mentoring session. A lot of devs will help you for free, you just need to ask
+
 ### ⛓️ Week 8 - Database Basics
 
 ### ⚛️ Week 9 - React basics
