@@ -159,6 +159,20 @@ Project requirements:
 
 ### 🌐 Week 7 - NodeJs + Express + REST
 
+#### Week Description
+
+This week, you will focus on mastering Node.js and Express.js, learning about API testing with Postman, and studying best practices for REST API design. Begin by studying the Node.js and Express.js full course, followed by chapters 20-21 of Eloquent JavaScript. Next, explore API testing by studying the Postman Beginner's Course. After that, read an article about REST API best practices to deepen your understanding of API design.
+
+Once you have a strong foundation in these areas, implement a basic CRUD REST API to practice your skills. Learn how to use Node.js with TypeScript to enhance your projects with type safety and other TypeScript features. To assess your progress, check your knowledge using the Node.js roadmap. Finally, aim to complete three mentoring sessions by reaching out to more experienced developers on LinkedIn for guidance and advice.
+
+#### Why it Matters
+
+Node.js and Express.js are essential tools in modern web development, enabling developers to create fast and efficient server-side applications. Learning about these technologies and mastering API testing with Postman will provide you with a competitive edge in the job market.
+
+Studying best practices for REST API design and implementing a CRUD REST API will help you create robust and maintainable APIs for your projects, improving the overall quality of your applications. Integrating TypeScript with Node.js will enhance your projects with better type checking and other TypeScript features, leading to more reliable and scalable code.
+
+Connecting with experienced developers for mentoring sessions will provide you with valuable insights, guidance, and advice to enhance your learning process and help you grow as a developer. Overall, this week's tasks will equip you with the skills and knowledge to build better server-side applications and advance your career in web development.
+
 - [ ]  Study [Node.js and Express.js - Full Course](https://www.notion.so/Web-Developer-Roadmap-2023-919456cfc3704f389c5987249c06aecf)
 - [ ]  Study Eloquent Javascript chapters 20-21
 - [ ]  Study [Postman Beginner's Course - API Testing](https://youtu.be/VywxIQ2ZXw4)
