@@ -4,12 +4,15 @@ First and foremost, thank you for considering to contribute to the Web Developer
 
 ## **Table of Contents**
 
-1. **[Code of Conduct](https://chat.openai.com/?model=gpt-4#code-of-conduct)**
-2. **[How to Contribute](https://chat.openai.com/?model=gpt-4#how-to-contribute)**
-    - **[Opening an Issue](https://chat.openai.com/?model=gpt-4#opening-an-issue)**
-    - **[Submitting a Pull Request](https://chat.openai.com/?model=gpt-4#submitting-a-pull-request)**
-3. **[Style Guidelines](https://chat.openai.com/?model=gpt-4#style-guidelines)**
-4. **[Need Help?](https://chat.openai.com/?model=gpt-4#need-help)**
+- [**Contribution Guide**](#contribution-guide)
+  - [**Table of Contents**](#table-of-contents)
+  - [**Code of Conduct**](#code-of-conduct)
+  - [**How to Contribute**](#how-to-contribute)
+    - [**Opening an Issue**](#opening-an-issue)
+    - [**Submitting a Pull Request**](#submitting-a-pull-request)
+  - [**Style Guidelines**](#style-guidelines)
+  - [**Need Help?**](#need-help)
+
 
 ## **Code of Conduct**
 
