@@ -169,6 +169,17 @@ Project requirements:
 - [ ]  Achieve 3 mentoring sessions. Contact more senior developers on Linkedin asking for a 30-minute mentoring session. A lot of devs will help you for free, you just need to ask
 
 ### ⛓️ Week 8 - Database Basics
+#### Week Description
+
+This week, you will explore various database paradigms and learn how to work with SQL and NoSQL databases using popular tools and frameworks. Start by understanding the different types of database systems and their use cases. Next, learn the fundamentals of SQL and relational databases, covering topics such as database design, querying, and administration.
+
+After gaining a solid understanding of SQL, dive into TypeORM, a powerful Object Relational Mapper (ORM) for TypeScript and JavaScript, which will equip you with the skills to work with databases in a Node.js environment. Lastly, learn how to build applications using MongoDB, a popular NoSQL database, in conjunction with Node.js, Express, and Mongoose, covering essential concepts such as schema design, data modeling, and CRUD operations.
+
+#### Why it Matters
+
+Databases play a critical role in the storage and management of data for various software systems. Understanding different database paradigms and being proficient in working with both SQL and NoSQL databases are essential skills for developers.
+
+Gaining valuable knowledge about various database paradigms will help you make informed decisions when selecting the appropriate database technology for your projects. Learning SQL and relational databases will enable you to work with widely-used database systems, while familiarity with TypeORM will allow you to work efficiently with databases in a Node.js environment. Acquiring skills in MongoDB will provide you with the ability to handle large-scale and complex data in NoSQL databases. These skills will make you a more versatile developer and increase your employability and value in the job market.
 
 - [ ]  Watch [7 Database Paradigms](https://youtu.be/W2Z7fbCLSTw)
 - [ ]  Watch [SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY)
