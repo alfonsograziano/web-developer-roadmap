@@ -352,8 +352,17 @@ Practicing problems on Leetcode will not only help reinforce the concepts learne
 - [ ]  Watch [MIT 6.006 Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 - [ ]  Create a [Leetcode](https://leetcode.com/) account and solve at least 10 easy problems
 
-### 🐳 Week 13 - Docker basics
+### 🐳🤝 Week 13 - Docker & Project management
 
+#### Week Description
+This week, delve into the fundamentals of Docker containers and Kubernetes, learn how to containerize your project application using Docker Compose, and gain valuable insights on project management from a comprehensive course by Google.
+
+#### Why It Matters
+Understanding Docker containers and Kubernetes is crucial for modern software development, as they facilitate efficient deployment and scaling of applications. Mastering containerization techniques ensures seamless collaboration and consistency across environments. Additionally, effective project management skills are essential to successfully plan, execute, and complete projects, ultimately leading to improved team performance and better outcomes.
+
+- [ ]  Watch [Docker Containers and Kubernetes Fundamentals](https://youtu.be/kTp5xUtcalw)
+- [ ]  Containerize your project application with Docker using Docker Compose
+- [ ]  Watch [Project Management Full Course By Google](https://youtu.be/INHsqkkcjaM)
 ### ☁️ Week 14 - Cloud basics
 
 ### ➡️ Week 15- What’s next
