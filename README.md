@@ -243,6 +243,7 @@ Moreover, a strong LinkedIn profile and an active network can significantly impa
 - [ ]  Experiment with Webpack and create your first bundles
 - [ ]  Improve your [Linkedin profile](https://www.linkedin.com/business/sales/blog/profile-best-practices/17-steps-to-a-better-linkedin-profile-in-2017)
 - [ ]  Invest 1hr/day in networking using Linkedin. Increase your network up to 50 valuable connections
+- [ ]  Watch [How I Stay Motivated & Continue Growing!](https://youtu.be/kWfxZ2jDmP8)
 
 ### 🌐 Week 7 - NodeJs + Express + REST
 
