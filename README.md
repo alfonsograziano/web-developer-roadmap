@@ -170,6 +170,12 @@ Project requirements:
 
 ### ⛓️ Week 8 - Database Basics
 
+- [ ]  Watch [7 Database Paradigms](https://youtu.be/W2Z7fbCLSTw)
+- [ ]  Watch [SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY)
+- [ ]  Watch [TypeORM Crash Course - TypeScript & Node ORM](https://youtu.be/JaTbzPcyiOE)
+- [ ]  Watch [MongoDB Full Tutorial w/ Node.js, Express, & Mongoose](https://youtu.be/4yqu8YF29cU)
+
+
 ### ⚛️ Week 9 - React basics
 
 - [ ]  Watch [React Course - Beginner's Tutorial for React JavaScript Library [2022]](https://youtu.be/bMknfKXIFA8)
