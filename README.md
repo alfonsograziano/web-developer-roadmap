@@ -177,6 +177,18 @@ Project requirements:
 
 
 ### ⚛️ Week 9 - React basics
+#### Week Description
+
+This week's focus is on learning and mastering the React JavaScript library, a powerful and widely-used tool for building interactive user interfaces. You will start by watching a complete course, which will provide a comprehensive introduction to the core concepts and features of React. Then you will build and publish three projects from the course on Github to showcase your newly acquired skills.
+
+To further expand your understanding, you will study the React documentation, which provides in-depth explanations of React's features, concepts, and best practices. Finally, prepare for potential job interviews or simply deepen your understanding of React by reviewing the Top 100+ React Interview Questions You Must Prepare In 2023.
+
+#### Why it Matters
+
+React is one of the most popular JavaScript libraries for developing modern and performant web applications. Learning React is essential for anyone looking to thrive in the web development industry, as it is frequently sought after by employers and is a valuable skill for both front-end and full-stack developers.
+
+By completing this week's tasks, you will gain a strong foundation in React, enabling you to build interactive and efficient web applications. By creating and publishing projects on Github, you will not only demonstrate your proficiency in React but also showcase your ability to apply the concepts in real-world scenarios. This will make you a more competitive candidate for job opportunities and collaborations.
+
 
 - [ ]  Watch [React Course - Beginner's Tutorial for React JavaScript Library [2022]](https://youtu.be/bMknfKXIFA8)
     - [ ]  Build the three projects from the course and publish them on Github
