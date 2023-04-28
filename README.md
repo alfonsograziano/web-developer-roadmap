@@ -218,7 +218,7 @@ Also, the Clean Code playlist will start giving you a basic understanding of the
 - [ ]  Share on Linkedin the Github repository with your notes and ask for Pull Requests
 - [ ]  Participate in an online JS event/workshop and after that, share a post on Linkedin with what you learned
 
-#### Advanced free resources:
+#### Advanced free resources (Optional):
 
 - Deep JavaScript: Theory and techniques Dr. Axel Rauschmayer [Free edition](https://exploringjs.com/deep-js/toc.html)
 
