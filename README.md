@@ -421,7 +421,8 @@ Gaining valuable knowledge about various database paradigms will help you make i
 - [ ]  Watch [SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY)
 - [ ]  Watch [TypeORM Crash Course - TypeScript & Node ORM](https://youtu.be/JaTbzPcyiOE)
 - [ ]  Practice with [SQL Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=SQL)
-
+- [ ]  Check the [MongoDB basics](https://youtu.be/c2M-rlkkT5o)
+- [ ]  Learn the [Mongoose Documentation](https://mongoosejs.com/docs/index.html)
 
 ### ⚛️ Week 9 - React basics
 #### Week Description
@@ -459,7 +460,6 @@ Finally, Next.js is an excellent choice for building server-side rendered React 
 - [ ]  Understand [Advanced React Concepts](https://reactresources.com/topics/advanced-concepts)
 - [ ]  Watch [React Redux Full Course for Beginners](https://youtu.be/NqzdVN2tyvQ)
 - [ ]  Study the [Next.js React Framework Course](https://youtu.be/KjY94sAKLlw)
-
 
 ### 🚀 Week 11 -  A fullstack website
 For this week, you have two briefs. Read them, you can choose and work on the project you prefer. If you need any help with the project or you want any other detail, please feel free to [contact me on Linkedin](https://www.linkedin.com/in/alfonso-graziano/).
