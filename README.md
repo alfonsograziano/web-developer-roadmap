@@ -37,12 +37,16 @@
     - [⌨️ Week 6 - Typescript \& Webpack](#️week-6---typescript--webpack)
       - [Week Description](#week-description-5)
       - [Why It Matters](#why-it-matters-5)
+      - [Week tasks](#week-tasks-5)
     - [🌐 Week 7 - NodeJs + Express + REST](#week-7---nodejs--express--rest)
       - [Week Description](#week-description-6)
       - [Why it Matters](#why-it-matters-6)
+      - [Week tasks](#week-tasks-6)
+      - [Extra curricular resources](#extra-curricular-resources-2)
     - [⛓️ Week 8 - Database Basics](#️week-8---database-basics)
       - [Week Description](#week-description-7)
       - [Why it Matters](#why-it-matters-7)
+      - [Week tasks](#week-tasks-7)
     - [⚛️ Week 9 - React basics](#️week-9---react-basics)
       - [Week Description](#week-description-8)
       - [Why it Matters](#why-it-matters-8)
@@ -355,10 +359,12 @@ Learning TypeScript and Webpack is crucial for developers looking to stay up-to-
 
 Moreover, a strong LinkedIn profile and an active network can significantly impact your career growth. By refining your LinkedIn profile and expanding your connections, you'll create more opportunities for collaboration, job offers, and professional development. Investing in these areas will not only help you stay relevant in the industry but also enhance your overall career prospects.
 
+ #### Week tasks
+
 - [ ]  Study [Learn TypeScript - Full Tutorial](https://youtu.be/30LWjhZzg50)
 - [ ]  Study [Learn Webpack - Full Tutorial for Beginners](https://www.youtube.com/watch?v=MpGLUVbqoYQ&ab_channel=freeCodeCamp.org)
 - [ ]  Read [Using webpack with TypeScript](https://blog.logrocket.com/using-webpack-typescript/)
-- [ ]  Convert 5 JS projects you created into TS and push them on GitHub using the “typescript” branch
+- [ ]  Convert 5 JS projects you created so far using Typescript, and push them on GitHub using the “typescript” branch
 - [ ]  Experiment with Webpack and create your first bundles
 - [ ]  Improve your [Linkedin profile](https://www.linkedin.com/business/sales/blog/profile-best-practices/17-steps-to-a-better-linkedin-profile-in-2017)
 - [ ]  Invest 1hr/day in networking using Linkedin. Increase your network up to 50 valuable connections
@@ -380,6 +386,8 @@ Studying best practices for REST API design and implementing a CRUD REST API wil
 
 Connecting with experienced developers for mentoring sessions will provide you with valuable insights, guidance, and advice to enhance your learning process and help you grow as a developer. Overall, this week's tasks will equip you with the skills and knowledge to build better server-side applications and advance your career in web development.
 
+ #### Week tasks
+
 - [ ]  Study [Node.js and Express.js - Full Course](https://youtu.be/Oe421EPjeBE)
 - [ ]  Watch [JWT Authentication Tutorial - Node.js](https://youtu.be/mbsmsi7l3r4)
 - [ ]  Study Eloquent Javascript chapters 20-21
@@ -389,6 +397,10 @@ Connecting with experienced developers for mentoring sessions will provide you w
 - [ ]  Learn [how to use Node with Typescript](https://www.digitalocean.com/community/tutorials/setting-up-a-node-project-with-typescript)
 - [ ]  Check your knowledge in the [Node roadmap](https://roadmap.sh/nodejs)
 - [ ]  Achieve 3 mentoring sessions. Contact more senior developers on Linkedin asking for a 30-minute mentoring session. A lot of devs will help you for free, you just need to ask
+
+#### Extra curricular resources
+
+- [NestJs Course for Beginners - Create a REST API](https://youtu.be/GHTA143_b-s)
 
 ### ⛓️ Week 8 - Database Basics
 #### Week Description
@@ -403,10 +415,12 @@ Databases play a critical role in the storage and management of data for various
 
 Gaining valuable knowledge about various database paradigms will help you make informed decisions when selecting the appropriate database technology for your projects. Learning SQL and relational databases will enable you to work with widely-used database systems, while familiarity with TypeORM will allow you to work efficiently with databases in a Node.js environment. Acquiring skills in MongoDB will provide you with the ability to handle large-scale and complex data in NoSQL databases. These skills will make you a more versatile developer and increase your employability and value in the job market.
 
+ #### Week tasks
+
 - [ ]  Watch [7 Database Paradigms](https://youtu.be/W2Z7fbCLSTw)
 - [ ]  Watch [SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY)
 - [ ]  Watch [TypeORM Crash Course - TypeScript & Node ORM](https://youtu.be/JaTbzPcyiOE)
-- [ ]  Watch [MongoDB Full Tutorial w/ Node.js, Express, & Mongoose](https://youtu.be/4yqu8YF29cU)
+- [ ]  Practice with [SQL Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=SQL)
 
 
 ### ⚛️ Week 9 - React basics
