@@ -184,6 +184,7 @@ HTML creates the basic structure of a web page. With CSS we can add style, anima
 - [ ]  Watch [Tailwind CSS Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours](https://youtu.be/lCxcTsOHrjo)
 - [ ]  Create an account on [Frontend Mentor](https://www.frontendmentor.io/)
     - [ ]  Complete at least [5 challenges](https://www.frontendmentor.io/challenges?languages=HTML|CSS&types=free) with HTML + CSS and publish them on Github
+- [ ]  Validate your knowledge with [HTML Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML) & [CSS Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=CSS)
 - [ ]  Improve your social presence
     - [ ]  Create your first Linkedin post by explaining who you are, what are you studying, and why you decided to start this journey
     - [ ]  Connect with at least 10 software developers. You can search for them in your city for example.
@@ -197,8 +198,6 @@ Keep in mind that this is not programming. HTML and CSS are a way to define what
 
 Learning HTML and CSS is essential for web development, and there are many great resources available to help you get started. Here are some of the best websites for learning HTML and CSS basics:
 
-⚠️ **Warning:** You don't need to read everything. Feel free to pick just one or two of these liks and take a look.
-
 - Mozilla Developer Network (MDN) Web Docs:
   - HTML: https://developer.mozilla.org/en-US/docs/Web/HTML
   - CSS: https://developer.mozilla.org/en-US/docs/Web/CSS
@@ -209,26 +208,9 @@ MDN is a comprehensive and authoritative resource for web developers, providing 
   - CSS: https://www.w3schools.com/css/
 W3Schools offers beginner-friendly tutorials and interactive examples to help you learn and practice HTML and CSS.
 
-- freeCodeCamp:
-  - HTML & CSS: https://www.freecodecamp.org/learn/2022/responsive-web-design
-freeCodeCamp provides a hands-on curriculum, which includes HTML and CSS, along with responsive web design principles and other related technologies.
-
-- Codecademy:
-  - HTML: https://www.codecademy.com/learn/learn-html
-  - CSS: https://www.codecademy.com/learn/learn-css
-Codecademy offers interactive courses and coding exercises to help you learn HTML and CSS, along with other web development languages.
-
-- HTML Dog:
-  - HTML: https://www.htmldog.com/guides/html/
-  - CSS: https://www.htmldog.com/guides/css/
-HTML Dog provides clear and concise tutorials for learning HTML, CSS, and JavaScript, along with interactive examples.
-
 - CSS-Tricks:
   - CSS: https://css-tricks.com/
 CSS-Tricks is a popular blog and resource site that covers various CSS techniques, tips, and tricks, as well as HTML and JavaScript.
-
-
-
 
 
 ### ✏️ Week 3 - JS Basics
