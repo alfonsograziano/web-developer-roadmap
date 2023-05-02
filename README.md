@@ -24,13 +24,16 @@
     - [✏️ Week 3 - JS Basics](#️week-3---js-basics)
       - [Week description](#week-description-2)
       - [Why it matters](#why-it-matters-2)
+      - [Week tasks](#week-tasks-2)
     - [🔥 Week 4 - JS Intermediate](#week-4---js-intermediate)
-      - [Week description](#week-description-3)
-      - [Why it matters](#why-it-matters-3)
+      - [Week Description](#week-description-3)
+      - [Why It Matters](#why-it-matters-3)
+      - [Week tasks](#week-tasks-3)
       - [Advanced free resources (Optional):](#advanced-free-resources-optional)
     - [🏗️ Week 5 - A first website](#️week-5---a-first-website)
       - [Week Description](#week-description-4)
       - [Why It Matters](#why-it-matters-4)
+      - [Week tasks](#week-tasks-4)
     - [⌨️ Week 6 - Typescript \& Webpack](#️week-6---typescript--webpack)
       - [Week Description](#week-description-5)
       - [Why It Matters](#why-it-matters-5)
@@ -225,9 +228,12 @@ In this first week, we will learn a few basics JS skills and a few Soft Skills f
 
 I remember when I started coding for the first time. It was interesting but hard, complex, and a huge topic. In the end, programming is just the first step to becoming a software engineer. The more you exercise, the more you improve your skills. Keep going! 🚀
 
+ #### Week tasks
+
 - [ ]  Watch [JavaScript Tutorial for Beginners - Full Course in 12 Hours (2022)](https://youtu.be/lI1ae4REbFM)
     - [ ]  Replicate the two portfolio projects at the end and add them to your Github profile
 - [ ]  Complete at least [10 challenges](https://www.frontendmentor.io/challenges?languages=HTML|CSS,HTML|CSS|JS&types=free) with HTML + CSS and publish them on Github
+- [ ]  Practice as much as you can with [Exercism](https://exercism.org/tracks/javascript/exercises)
 - [ ]  Start learning a few [Software Development soft skills](https://www.youtube.com/playlist?list=PL32pD389V8xsYo9ETSd4JTu5EYYLcYZCu)
 - [ ]  Read [10 Soft Skills Every Software Engineer Should Have](https://www.trio.dev/blog/software-engineer-soft-skills)
 - [ ]  Publish 3 posts on Linkedin about what you’re learning and present demos (using videos or screenshots) about your current projects
@@ -236,23 +242,18 @@ What huge progress! You have the Javascript basics and should be able to accompl
 
 ### 🔥 Week 4 - JS Intermediate
 
-#### Week description
+#### Week Description
+During the fourth week of our 15-week web developer roadmap, you'll be focusing on gaining a deep understanding of JavaScript and clean coding practices. You will study the renowned book "Eloquent JavaScript" up to Chapter 19, taking notes and reproducing all the projects from the chapters. Additionally, you'll create a Github repository to store your notes and share them with others. To further enhance your coding skills, you'll watch a "Clean Code" playlist to learn best practices for writing efficient and maintainable code. Finally, you'll engage with the community by participating in an online JavaScript event or workshop, sharing your experience on LinkedIn, and inviting others to contribute to your Github repository via Pull Requests.
 
-Did you like last week’s videos? Well, this week we will start with the serious stuff! 
+#### Why It Matters
+JavaScript is an essential language for web development, and having a solid grasp of its fundamentals will enable you to build interactive and dynamic websites. Studying "Eloquent JavaScript" will help you understand the language's core concepts, techniques, and best practices, making you a more skilled and effective web developer. Learning clean coding practices through the "Clean Code" playlist will allow you to write code that is not only efficient but also maintainable, a valuable skill for any developer. Engaging with the community by participating in events and sharing your work on LinkedIn not only helps you learn from others but also increases your visibility and credibility within the industry.
 
-This week you will study a book 📚 which is really important in the Javascript ecosystem and can help you learn all the concepts required to succeed.
-
-This huge task will probably take the entire week, so relax, take a cup of tea, and start from page 1 😃
-
-#### Why it matters
-
-Studying Eloquent Javascript can help you learn all the concepts required to succeed in Javascript, and it will give you a solid foundation for building more complex applications. Additionally, completing the exercises can help solidify your understanding of the material.
-
-Also, the Clean Code playlist will start giving you a basic understanding of the clean code concepts
+ #### Week tasks
 
 - [ ]  Study [Eloquent Javascript](https://eloquentjavascript.net/) up to Chapter 19
     - [ ]  Create a Github repository with Eloquent Javascript notes
     - [ ]  Study and reproduce all the projects up to Chapter 19
+- [ ] Continue practicing with [Exercism](https://exercism.org/tracks/javascript/exercises) challenges
 - [ ]  Watch [Clean Code playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkK24EaPurzMq0-kw5U9pJh)
 - [ ]  Share on Linkedin the Github repository with your notes and ask for Pull Requests
 - [ ]  Participate in an online JS event/workshop and after that, share a post on Linkedin with what you learned
@@ -260,28 +261,87 @@ Also, the Clean Code playlist will start giving you a basic understanding of the
 #### Advanced free resources (Optional):
 
 - Deep JavaScript: Theory and techniques Dr. Axel Rauschmayer [Free edition](https://exploringjs.com/deep-js/toc.html)
+- [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts) - A curated collection of articles, videos, and resources covering 33 advanced JavaScript concepts.
 
 ### 🏗️ Week 5 - A first website
+
 #### Week Description
 
-This week, you will be working on an exciting personal project that puts into practice all the knowledge you've gained so far. The project will be a fully responsive website featuring at least three different pages with seamless navigation between them. The mobile UI should include a hamburger menu for easy navigation. To enhance user interaction, you'll create a form and implement basic CRUD functionality using localStorage. Once the project is completed, you'll showcase it through a video or a LinkedIn carousel, publish the code on GitHub, and receive peer review in the form of a Pull Request.
+During the course of one week, the personal project will be broken down into manageable tasks that will help in the development of a fully functional basic frontend weather forecast application using HTML, CSS, JavaScript, and Git. The app will fetch weather data from public and freely available APIs, allowing users to view current weather conditions and a 5-day forecast for their desired location.
+
+Day 1: Project setup and HTML structure
+Day 2: CSS styling for responsive and visually appealing design
+Day 3: JavaScript integration to fetch data from public weather APIs
+Day 4: Implement search functionality and geolocation support
+Day 5: Add unit toggle feature and test the application
+Day 6: Bug fixing, refining, and optimizing the code
+Day 7: Final review, documentation, and deployment to a platform like GitHub
+
+
+Also, for the first time, you will publish a project using [Github Pages](https://pages.github.com/) so that everyone can see your project and interact with it.
 
 #### Why It Matters
 
-Undertaking a personal project like this is an excellent opportunity to demonstrate your skills, creativity, and understanding of web development concepts. It serves as a practical assessment of your learning and allows you to apply your knowledge to real-world scenarios. The project requirements ensure that you cover essential aspects of modern web development, such as responsive design, user interaction, and data management.
+This personal project matters for several reasons:
 
-Moreover, showcasing your project through a video or a LinkedIn carousel and sharing the code on GitHub will help build your portfolio and online presence. This exposure can lead to valuable connections, job opportunities, and feedback from peers, further enhancing your growth and development as a web developer.
+Skill development: By working on this project, you will be able to enhance your frontend development skills in HTML, CSS, and JavaScript. You will gain a deeper understanding of API integration, responsive web design, and user experience.
 
-Project requirements: 
+Portfolio building: Having a completed project like a weather forecast app in your portfolio showcases your skills in frontend development and your ability to work with APIs. This can be valuable when seeking job opportunities or freelance work.
 
-- The website must be fully responsive
-- Add at least 3 different pages with navigation between them
-- Use a hamburger menu in the mobile UI
-- Create a form and let the user interact
-- Add a page with custom logic and implement a basic [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) using localStorage
-- [ ]  Create a personal project using all the knowledge you gained
+Version control proficiency: Utilizing Git for version control throughout the project allows you to gain experience in tracking changes, collaborating with others, and managing code. This skill is essential for any developer in the industry.
+
+Personal satisfaction: Completing a personal project from start to finish is a rewarding experience. It not only demonstrates your dedication and perseverance but also helps boost your confidence as a developer.
+
+Practical application: A weather forecast app is a useful tool for users to access weather information quickly and easily. By creating an intuitive and visually appealing app, you contribute to the daily lives of potential users.
+
+ #### Week tasks
+
+**Project Brief:**
+The main goal of this personal project is to create a fully functional basic frontend weather forecast application using HTML, CSS, JavaScript, and Git. The app will fetch weather data from public and freely available APIs and display the information in a visually appealing and user-friendly manner.
+
+**Objective:**
+1. Develop an understanding of API integration using JavaScript.
+2. Enhance frontend development skills (HTML, CSS, JavaScript).
+3. Gain experience in version control using Git.
+
+**Requirements:**
+1. HTML - Create a responsive and accessible webpage layout.
+2. CSS - Style the webpage, making it visually appealing and responsive.
+3. JavaScript - Fetch and process data from public weather APIs, and implement custom logic to present the data.
+4. Git - Use Git for version control, and host the project on a platform like GitHub.
+
+**Features:**
+1. Current weather - Display the current temperature, weather condition, humidity, and wind speed.
+2. Weather forecast - Show a 5-day weather forecast with daily high and low temperatures and weather conditions.
+3. Search functionality - Allow users to search for weather information by city or ZIP code.
+4. Geolocation - Automatically fetch the weather data for the user's current location.
+5. Units toggle - Enable users to switch between Celsius and Fahrenheit temperature units.
+
+**APIs:**
+1. OpenWeatherMap API (**[https://openweathermap.org/api](https://openweathermap.org/api)**) - Fetch weather data for the current conditions and 5-day forecast.
+2. LocationIQ API (**[https://locationiq.com/](https://locationiq.com/)**) - Convert user's input (city or ZIP code) into coordinates for OpenWeatherMap API.
+
+**Workflow:**
+1. Set up the project structure and initialize a Git repository.
+2. Create the HTML layout and style it with CSS.
+3. Implement JavaScript logic to fetch and process data from the APIs.
+4. Add search functionality and geolocation support.
+5. Implement unit toggle and test the application.
+6. Regularly commit changes to the Git repository and push to a remote platform like GitHub.
+
+**Workflow:**
+1. A responsive weather forecast application that fetches data from public APIs.
+2. The project hosted on a platform like GitHub, using Git for version control.
+
+**UI and Design files:**
+If you don't know what Design to use, you can take a look at this free [Figma file](https://www.figma.com/community/file/1019097765306863573/Minimal-Weather-App)
+
+
+**Tasks**
+- [ ]  Create the weather project using all the knowledge you gained
     - [ ]  Create a video of the project or a Linkedin carousel
-    - [ ]  Publish the code on Github and gain at least a PR from a peer
+    - [ ]  Publish the code on Github and gain at least a Pull Request from a peer
+    - [ ]  Host the project on [Github Pages](https://youtu.be/QyFcl_Fba-k)
 
 ### ⌨️ Week 6 - Typescript & Webpack
 #### Week Description
