@@ -12,8 +12,8 @@
   - [🆙  Getting Help](#--getting-help)
   - [Time to study](#time-to-study)
     - [🔨 Week 1 - Introduction \& Tools](#week-1---introduction--tools)
-      - [Week description](#week-description)
-      - [Why it matters](#why-it-matters)
+      - [Week Description](#week-description)
+      - [Why It Matters](#why-it-matters)
     - [🎨 Week 2 - HTML \& CSS Basic](#week-2---html--css-basic)
       - [Week description](#week-description-1)
       - [Why it matters](#why-it-matters-1)
@@ -23,6 +23,7 @@
     - [🔥 Week 4 - JS Intermediate](#week-4---js-intermediate)
       - [Week description](#week-description-3)
       - [Why it matters](#why-it-matters-3)
+      - [Advanced free resources (Optional):](#advanced-free-resources-optional)
     - [🏗️ Week 5 - A first website](#️week-5---a-first-website)
       - [Week Description](#week-description-4)
       - [Why It Matters](#why-it-matters-4)
@@ -134,20 +135,12 @@ Remember, seeking help is a natural part of the learning process, and there's no
 
 ### 🔨 Week 1 - Introduction & Tools
 
-#### Week description
+#### Week Description
+In the first week of our 15-week web developer roadmap, you'll be introduced to the fundamentals of programming and computer science. 
+This week, you will watch a series of videos that explain the basics of programming languages, how the internet works, and the tools that you'll use throughout the course. You'll also be setting up your development environment by installing Visual Studio Code and configuring Git, a version control system. Finally, you'll create accounts on Github and LinkedIn to help you manage your projects and expand your professional network.
 
-In this first week, we’ll make a basic introduction to programming and how the Internet works. Then we will learn the basics of VSCode (a text editor used to write software) and Git (a tool used to version our code). Also, we will create a basic Linkedin profile to reach out to other developers and grow our network.
-
-#### Why it matters
-
-Starting with a basic computer science and Internet understanding is fundamental in a Web Development roadmap
-
-In the first week, you need to setup your tools. You need: 
-
-- A computer
-- A good internet connection (you’ll see a lot of videos)
-
-The first weeks are the most complex, you’re going to receive a lot of information, you’ll find weird names and you need to manage multiple complex concepts. Feel free to rewatch a video multiple times if you don’t understand it correctly.
+#### Why It Matters
+Understanding the basics of programming, the internet, and the tools you'll be using is crucial for your journey as a web developer. This week's content will help you build a solid foundation and gain confidence in your ability to learn more advanced topics in the following weeks. Furthermore, setting up your development environment, creating a Github account, and getting familiar with Git will enable you to collaborate with other developers and share your work. Lastly, creating a LinkedIn account will allow you to connect with professionals in the industry and access potential job opportunities as you progress through the course.
 
 - [ ]  Watch [Introduction to Programming and Computer Science - Full Course](https://www.youtube.com/watch?v=zOjov-2OZ0E&ab_channel=freeCodeCamp.org)
 - [ ]  Watch [The Programming Language Guide](https://youtu.be/2lVDktWK-pc)
