@@ -342,6 +342,7 @@ If you don't know what Design to use, you can take a look at this free [Figma fi
     - [ ]  Create a video of the project or a Linkedin carousel
     - [ ]  Publish the code on Github and gain at least a Pull Request from a peer
     - [ ]  Host the project on [Github Pages](https://youtu.be/QyFcl_Fba-k)
+    - [ ]  Watch [How to Put a Website Online: Template, Coding, Domain, Hosting, and DNS](https://youtu.be/NQP89ish9t8)
 
 ### ⌨️ Week 6 - Typescript & Webpack
 #### Week Description
