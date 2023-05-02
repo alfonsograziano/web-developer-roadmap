@@ -14,9 +14,13 @@
     - [🔨 Week 1 - Introduction \& Tools](#week-1---introduction--tools)
       - [Week Description](#week-description)
       - [Why It Matters](#why-it-matters)
+      - [Week tasks](#week-tasks)
+      - [Extra curricular resources](#extra-curricular-resources)
     - [🎨 Week 2 - HTML \& CSS Basic](#week-2---html--css-basic)
       - [Week description](#week-description-1)
       - [Why it matters](#why-it-matters-1)
+      - [Week tasks](#week-tasks-1)
+      - [Extra curricular resources](#extra-curricular-resources-1)
     - [✏️ Week 3 - JS Basics](#️week-3---js-basics)
       - [Week description](#week-description-2)
       - [Why it matters](#why-it-matters-2)
@@ -142,6 +146,8 @@ This week, you will watch a series of videos that explain the basics of programm
 #### Why It Matters
 Understanding the basics of programming, the internet, and the tools you'll be using is crucial for your journey as a web developer. This week's content will help you build a solid foundation and gain confidence in your ability to learn more advanced topics in the following weeks. Furthermore, setting up your development environment, creating a Github account, and getting familiar with Git will enable you to collaborate with other developers and share your work. Lastly, creating a LinkedIn account will allow you to connect with professionals in the industry and access potential job opportunities as you progress through the course.
 
+ #### Week tasks
+
 - [ ]  Watch [Introduction to Programming and Computer Science - Full Course](https://www.youtube.com/watch?v=zOjov-2OZ0E&ab_channel=freeCodeCamp.org)
 - [ ]  Watch [The Programming Language Guide](https://youtu.be/2lVDktWK-pc)
 - [ ]  Watch [How does the internet work? (Full Course)](https://youtu.be/zN8YNNHcaZc)
@@ -155,6 +161,11 @@ Understanding the basics of programming, the internet, and the tools you'll be u
 - [ ]  Create a [Linkedin](https://www.linkedin.com/) account (we will optimize it in the next weeks)
     - [ ]  Send me a [connection](https://www.linkedin.com/in/alfonso-graziano/) if you want
 
+#### Extra curricular resources
+
+- Harvard's CS50x (Introduction to Computer Science): https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
+- Stanford's Introduction to Computer Science (CS106A): https://see.stanford.edu/Course/CS106A
+
 ### 🎨 Week 2 - HTML & CSS Basic
 
 #### Week description
@@ -167,6 +178,7 @@ Like other topics in this roadmap, is virtually impossible to learn them in one 
 
 HTML creates the basic structure of a web page. With CSS we can add style, animations, handling responsiveness, and a lot more. Also, joining dev communities is really important and can be a career booster.
  
+ #### Week tasks
 
 - [ ]  Watch [HTML & CSS for Beginners | FREE MEGA COURSE (7+ Hours!)](https://www.youtube.com/watch?v=iG2jotQo9NI&ab_channel=EnvatoTuts%2B)
 - [ ]  Watch [Tailwind CSS Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours](https://youtu.be/lCxcTsOHrjo)
@@ -180,6 +192,44 @@ HTML creates the basic structure of a web page. With CSS we can add style, anima
 Right now you should have an understanding of how the DOM works, how to style HTML, and you should already have a few projects on Github, congratulations! 🎉
 
 Keep in mind that this is not programming. HTML and CSS are a way to define what to show on a web browser. Programming is something different, we will see it in the next week.
+
+#### Extra curricular resources
+
+Learning HTML and CSS is essential for web development, and there are many great resources available to help you get started. Here are some of the best websites for learning HTML and CSS basics:
+
+⚠️ **Warning:** You don't need to read everything. Feel free to pick just one or two of these liks and take a look.
+
+- Mozilla Developer Network (MDN) Web Docs:
+  - HTML: https://developer.mozilla.org/en-US/docs/Web/HTML
+  - CSS: https://developer.mozilla.org/en-US/docs/Web/CSS
+MDN is a comprehensive and authoritative resource for web developers, providing detailed documentation and guides on HTML, CSS, and other web technologies.
+
+- W3Schools:
+  - HTML: https://www.w3schools.com/html/
+  - CSS: https://www.w3schools.com/css/
+W3Schools offers beginner-friendly tutorials and interactive examples to help you learn and practice HTML and CSS.
+
+- freeCodeCamp:
+  - HTML & CSS: https://www.freecodecamp.org/learn/2022/responsive-web-design
+freeCodeCamp provides a hands-on curriculum, which includes HTML and CSS, along with responsive web design principles and other related technologies.
+
+- Codecademy:
+  - HTML: https://www.codecademy.com/learn/learn-html
+  - CSS: https://www.codecademy.com/learn/learn-css
+Codecademy offers interactive courses and coding exercises to help you learn HTML and CSS, along with other web development languages.
+
+- HTML Dog:
+  - HTML: https://www.htmldog.com/guides/html/
+  - CSS: https://www.htmldog.com/guides/css/
+HTML Dog provides clear and concise tutorials for learning HTML, CSS, and JavaScript, along with interactive examples.
+
+- CSS-Tricks:
+  - CSS: https://css-tricks.com/
+CSS-Tricks is a popular blog and resource site that covers various CSS techniques, tips, and tricks, as well as HTML and JavaScript.
+
+
+
+
 
 ### ✏️ Week 3 - JS Basics
 
